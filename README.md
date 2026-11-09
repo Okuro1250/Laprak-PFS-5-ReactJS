@@ -14,7 +14,7 @@ Aplikasi TodoList sederhana menggunakan React JS 19 dan Bootstrap.
 
 ## Screenshot Aplikasi
 
-![Screenshot TodoList](./screenshots/image.png)
+![Screenshot TodoList](./screenshot/image.png)
 
 ## Teknologi yang Digunakan
 
